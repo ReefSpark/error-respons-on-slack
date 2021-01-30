@@ -4,4 +4,4 @@
     
 # Install 
 
-    npm install error-response-through-slack-using-webHook --save
+    npm install error-response-through-slack-using-webhook --save

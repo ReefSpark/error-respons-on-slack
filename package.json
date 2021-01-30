@@ -1,0 +1,25 @@
+{
+  "name": "error-response-on-slack-using-webhook",
+  "version": "1.0.0",
+  "description": "Api error response through on slack channel using web hook",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReefSpark/error-respons-on-slack.git"
+  },
+  "keywords": [
+    "error",
+    "response",
+    "on",
+    "slack"
+  ],
+  "author": "mathan kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ReefSpark/error-respons-on-slack/issues"
+  },
+  "homepage": "https://github.com/ReefSpark/error-respons-on-slack#readme"
+}
